@@ -23,7 +23,7 @@ Secure Password Generator was developed with a focus on simplicity, security, an
 
 - **Java:** The application is built using Java, ensuring platform independence and reliability.
 
-- **User Interface:** We've designed a user-friendly interface using Java Swing, providing an intuitive experience.
+- **User Interface:** designed a user-friendly interface using Java Swing, providing an intuitive experience.
 
 - **Secure Password Generation:** The software uses secure password generation algorithms to create strong and unique passwords.
 
