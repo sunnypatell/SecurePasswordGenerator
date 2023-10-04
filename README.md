@@ -61,6 +61,6 @@ Secure Password Generator employs secure password generation algorithms that adh
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact us at sunnypatel124555@gmail.com.
+If you have any questions, suggestions, or feedback, please feel free to contact me at sunnypatel124555@gmail.com.
 
 **Please note:** This project's code and resources are protected by copyright. Unauthorized copying or reuse of the code is not permitted without explicit permission from the project owner {Sunny Patel}.
