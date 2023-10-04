@@ -15,7 +15,7 @@ Welcome to Secure Password Generator! This project is a secure password generato
 
 ## Introduction
 
-In the digital age, strong and secure passwords are crucial for protecting your online identity. Secure Password Generator is a Java-based application that addresses this need. It offers password generation, secure storage, and real-time threat monitoring, all within an intuitive user interface.
+In the digital age, strong and secure passwords are crucial for protecting your online identity. Secure Password Generator is a Java-based application that addresses this need.
 
 ## Implementation Approach
 
